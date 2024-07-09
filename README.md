@@ -1,6 +1,6 @@
 # FAQ Generator
 
-A tool to generate FAQs related to articles using web scraping and the OpenAI API.
+A tool to generate FAQs related to articles using web scraping and the OpenAI API. 
 This prohect was developed during hackathon conducted by Bajaj Finserv Private Ltd
 
 ## Features
